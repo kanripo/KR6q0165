@@ -1,0 +1,5 @@
+011-0042a00	X 011-0042a	buddhist/X-xuzang/X65/00/X65-0042.png
+011-0042b00	X 011-0042b	buddhist/X-xuzang/X65/00/X65-0042.png
+011-0042c00	X 011-0042c	buddhist/X-xuzang/X65/00/X65-0042.png
+011-0043a00	X 011-0043a	buddhist/X-xuzang/X65/00/X65-0043.png
+011-0043b00	X 011-0043b	buddhist/X-xuzang/X65/00/X65-0043.png
